@@ -1,1 +1,1 @@
-pin 12 is the active pin. Run positive from pin 12 to a led. led to resistor. resistor to ground. working lab setup uses ground from pin next to 12 (nearer to the micro USB)
+pin 12 is the active pin. Run positive from pin 12 to a led. led to resistor. resistor to ground. working lab setup uses ground from pin next to 12 (nearer to the micro USB) 
